@@ -1,5 +1,7 @@
 # Tech-Challenge---Fase-4
+
 **Problema**
+
 Você foi contratado(a) para uma consultoria, e seu trabalho envolve
 analisar os dados de preço do petróleo brent, que pode ser encontrado no site
 do ipea. Essa base de dados histórica envolve duas colunas: data e preço (em
@@ -10,6 +12,7 @@ tomada de decisão. Além disso, solicitaram que fosse desenvolvido um modelo
 de Machine Learning para fazer o forecasting do preço do petróleo.
 
 **Objetivo**
+
 • Criar um dashboard interativo com ferramentas à sua escolha.
 • Seu dashboard deve fazer parte de um storytelling que traga insights
 relevantes sobre a variação do preço do petróleo, como situações
